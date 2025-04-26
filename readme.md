@@ -112,9 +112,21 @@ playwright-dynamic-locators-practice/
 └── tests-examples/ (optionnel)
 
 🛠 Outils Playwright utiles
-Outil | Description | Commande
--------------|-----------------------------------------------|------------------------------------
-Codegen | Générer du code automatiquement en live | npx playwright codegen <URL>  
-UI Mode | Lancer les tests dans une interface graphique | npx playwright test --ui
-Debug Mode | Exécuter les tests pas à pas au ralenti | npx playwright test --debug
-Trace Viewer | Revoir l'exécution étape par étape | npx playwright show-trace trace.zip
+
+| Outil        | Description                                   | Commande                            |
+| ------------ | --------------------------------------------- | ----------------------------------- |
+| Codegen      | Générer du code automatiquement en live       | npx playwright codegen <URL>        |
+| UI Mode      | Lancer les tests dans une interface graphique | npx playwright test --ui            |
+| Debug Mode   | Exécuter les tests pas à pas au ralenti       | npx playwright test --debug         |
+| Trace Viewer | Revoir l'exécution étape par étape            | npx playwright show-trace trace.zip |
+
+📈 Schéma visuel rapide
+Table (table)
+└── Ligne 1 (tr)
+├── Cellule ID (td)
+├── Cellule Type (td) → "potato"
+├── Cellule Status (td)
+└── Cellule Actions (td) → Boutons Approve/Cancel
+└── Ligne 2 (tr)
+└── Ligne 3 (tr)
+etc.
