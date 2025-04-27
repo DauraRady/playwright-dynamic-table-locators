@@ -130,3 +130,26 @@ Table (table)
 └── Ligne 2 (tr)
 └── Ligne 3 (tr)
 etc.
+
+🔹 Practice Test Automation - Dynamic Table
+👉 https://practice.expandtesting.com/dynamic-table
+
+🔹 UI Test Automation Playground
+👉 https://www.uitestingplayground.com/
+
+🔹 LetCode - Tables
+👉 https://letcode.in/table
+
+🔹 DemoQA - Web Tables
+👉 https://demoqa.com/webtables
+
+Tips rapide :
+
+Practice ExpandTesting est parfait pour tableaux dynamiques.
+
+UI Testing Playground est super pour s'entraîner aux éléments qui changent.
+
+LetCode est sympa pour apprendre manipuler (ajouter, supprimer des lignes).
+
+DemoQA est bien pour faire du CRUD sur un tableau simple.
+[➡️ Accéder aux exercices pratiques](./exos.md)
